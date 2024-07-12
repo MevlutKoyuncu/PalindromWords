@@ -1,0 +1,7 @@
+C:\Users\Mevlüt\source\repos\PalindromWords\PalindromWords\bin\Debug\PalindromWords.exe.config
+C:\Users\Mevlüt\source\repos\PalindromWords\PalindromWords\bin\Debug\PalindromWords.exe
+C:\Users\Mevlüt\source\repos\PalindromWords\PalindromWords\bin\Debug\PalindromWords.pdb
+C:\Users\Mevlüt\source\repos\PalindromWords\PalindromWords\obj\Debug\PalindromWords.csproj.AssemblyReference.cache
+C:\Users\Mevlüt\source\repos\PalindromWords\PalindromWords\obj\Debug\PalindromWords.csproj.CoreCompileInputs.cache
+C:\Users\Mevlüt\source\repos\PalindromWords\PalindromWords\obj\Debug\PalindromWords.exe
+C:\Users\Mevlüt\source\repos\PalindromWords\PalindromWords\obj\Debug\PalindromWords.pdb
